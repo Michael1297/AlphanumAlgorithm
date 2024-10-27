@@ -4,16 +4,17 @@ Mirror http://www.davekoelle.com/alphanum.html \
 People sort strings with numbers differently than software does. Most sorting algorithms compare ASCII values, which produces an ordering that is inconsistent with human logic. Here's how to fix it.
 
 Download the algorithm:
-* Java: [AlphanumComparator.java](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/AlphanumComparator.java) \
-* C#: [AlphanumComparator.cs](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/AlphanumComparator.cs) \
-* C++: [alphanum.cpp](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.cpp) \
-* C++, not Windows dependent: [alphanum.hpp](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.hpp) \
-* JavaScript: [alphanum.js](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.js) \
-* Perl: [alphanum.pl](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.pl) \
-* Python: [alphanum.py](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.py) \
-* Python 2.4+: [alphanum.py_v2.4](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum_v2.4.py) \
-* Ruby: [alphanum.rb](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.rb) \
-* Other: [OCaml](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.ocaml), [Lua](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.lua), [Groovy](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.groovy) \
+* Java: [AlphanumComparator.java](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/AlphanumComparator.java)
+* Kotlin: [AlphanumComparator.kt](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/AlphanumComparator.kt)
+* C#: [AlphanumComparator.cs](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/AlphanumComparator.cs)
+* C++: [alphanum.cpp](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.cpp)
+* C++, not Windows dependent: [alphanum.hpp](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.hpp)
+* JavaScript: [alphanum.js](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.js)
+* Perl: [alphanum.pl](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.pl)
+* Python: [alphanum.py](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.py)
+* Python 2.4+: [alphanum.py_v2.4](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum_v2.4.py)
+* Ruby: [alphanum.rb](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.rb)
+* Other: [OCaml](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.ocaml), [Lua](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.lua), [Groovy](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.groovy)
 * PHP: Just use sort(&array;, SORT_STRING);
 
 # The Problem
