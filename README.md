@@ -14,7 +14,7 @@ Download the algorithm:
 * Python: [alphanum.py](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.py)
 * Python 2.4+: [alphanum.py_v2.4](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum_v2.4.py)
 * Ruby: [alphanum.rb](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.rb)
-* Other: [OCaml](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.ocaml), [Lua](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.lua), [Groovy](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.groovy)
+* Other: [OCaml](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.ocaml), [Lua](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.lua), [Groovy](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/alphanum.groovy), [Visual Basic](https://github.com/Michael1297/AlphanumAlgorithm/blob/main/AlphanumComparator.vb)
 * PHP: Just use sort(&array;, SORT_STRING);
 
 # The Problem
