@@ -4,3 +4,6 @@
 [submodule "libs/java-alphanum"]
 	path = libs/java-alphanum
 	url = https://github.com/amjjd/java-alphanum
+[submodule "libs/jquery.alphanum"]
+	path = libs/jquery.alphanum
+	url = https://github.com/KevinSheedy/jquery.alphanum
