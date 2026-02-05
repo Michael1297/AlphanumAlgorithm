@@ -1,0 +1,6 @@
+[submodule "libs/java-nat-sort"]
+	path = libs/java-nat-sort
+	url = https://github.com/gpanther/java-nat-sort
+[submodule "libs/java-alphanum"]
+	path = libs/java-alphanum
+	url = https://github.com/amjjd/java-alphanum
